@@ -31,7 +31,7 @@ const App = () => {
               <h3>{repo.name}</h3>
               <p>{repo.description}</p>
               <a href={repo.url} target="_blank" rel="noopener noreferrer">
-                Ver en GitHub
+                View in Github
               </a>
             </div>
           </motion.div>
