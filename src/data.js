@@ -12,10 +12,10 @@ export const repos = [
     url: "https://github.com/Choilolox/SistemaInventario"
   },
   {
-    name: "PUNTO-DE-VENTA-KOTLIN",
+    name: "SISTEMA-INVENTARIO-KOTLIN-MIGRACION",
     description: "Migrating a Java point-of-sale project to Kotlin",
     image: "/kotlinimg.png",
-    url: "https://github.com/Choilolox/PUNTO-DE-VENTA-KOTLIN"
+    url: "https://github.com/Choilolox/SistemaInventarioKotlin/tree/main/main/kotlin/com/puntodeventa"
   },
   {
     name: "APP-CHECADOR-REACT",
