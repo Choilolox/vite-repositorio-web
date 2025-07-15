@@ -6,10 +6,10 @@ export const repos = [
     url: "https://github.com/Choilolox/Kotlin-Files"
   },
   {
-    name: "PUNTO-DE-VENTA-JAVA",
+    name: "SISTEMA-INVENTARIO-JAVA",
     description: "Point of sale in Java developed from scratch",
     image: "/javaimg.jpg",
-    url: "https://github.com/Choilolox/PUNTO-DE-VENTA-JAVA"
+    url: "https://github.com/Choilolox/SistemaInventario"
   },
   {
     name: "PUNTO-DE-VENTA-KOTLIN",
