@@ -33,6 +33,6 @@ export const repos = [
     name: "SOPORTE-TI",
     description: "Ticket service application with Kotlin and AS",
     image: "/kotlinimg.png",
-    url: "https://github.com/Choilolox/AppSoporte/tree/main/src/main/java/com/empresa/soporte"
+    url: "https://github.com/Choilolox/AppSoporte"
   }
 ];
