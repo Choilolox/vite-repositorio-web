@@ -21,7 +21,7 @@ export const repos = [
     name: "APP-CHECADOR-REACT",
     description: "Input and output application developed in react",
     image: "/reactimg.png",
-    url: "https://github.com/Choilolox/CHECADOR"
+    url: "https://github.com/Choilolox/ControlAsistencias"
   },
   {
     name: "MUSICA-ANIMO",
