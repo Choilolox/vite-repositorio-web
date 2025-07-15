@@ -29,10 +29,12 @@ export const repos = [
     image: "/reactimg.png",
     url: "https://github.com/Choilolox/MUSICA-ANIMO"
   },
-  {
+
+   {
     name: "SOPORTE-TI",
-    description: "Ticket service application with Kotlin and AS",
-    image: "/kotlinimg.png",
+    description: "Music Recommender according to your mood",
+    image: "/reactimg.png",
     url: "https://github.com/Choilolox/AppSoporte"
-  }
+  },
+  
 ];
