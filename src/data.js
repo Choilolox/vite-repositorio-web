@@ -32,8 +32,8 @@ export const repos = [
 
    {
     name: "SOPORTE-TI",
-    description: "Music Recommender according to your mood",
-    image: "/reactimg.png",
+    description: "It support app",
+    image: "/kotlinimg.png",
     url: "https://github.com/Choilolox/AppSoporte"
   },
   
