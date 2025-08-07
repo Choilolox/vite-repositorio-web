@@ -1,6 +1,6 @@
 export const repos = [
   {
-    name: "KOTLIN-FILES",
+    name: "KOTLIN FILES",
     description: "Various exercises in Kotlin",
     image: "/kotlinimg.png",
     url: "https://github.com/Choilolox/Kotlin-Files"
@@ -31,10 +31,33 @@ export const repos = [
   },
 
    {
-    name: "SUPPORT-TI",
+    name: "SUPPORT TI",
     description: "It support app",
     image: "/kotlinimg.png",
     url: "https://github.com/Choilolox/AppSoporte"
   },
+
+  {
+    name: "CHAT APP",
+    description: "Direct message app",
+    image: "/kotlinimg.png",
+    url: "https://github.com/Choilolox/ChoiApp"
+  },
+
+  {
+    name: "FORTNITE SHOP",
+    description: "Diary Fortnite Shop",
+    image: "/kotlinimg.png",
+    url: "https://github.com/Choilolox/Fortnite"
+  },
+
+  {
+    name: "GUIDE BILLAR",
+    description: "Rules and infomation of billar",
+    image: "/kotlinimg.png",
+    url: "https://github.com/Choilolox/Billar"
+  },
+  
+
   
 ];
